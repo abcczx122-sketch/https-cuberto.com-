@@ -1,0 +1,22 @@
+:root {
+    --black: #000;
+    --white: #fff;
+    --light-gray: #EEEEEE;
+    --gray: gray;
+    --dark-gray: #333;
+    --medium-gray: #777;
+    --footer-gray: #666;
+    --dark-bg: #202020;
+    --light-blue: #D8EFEE;
+    --light-purple: #ECEEF6;
+
+    --gradient-gray: #4a4a4a;
+    --gradient-dark-1: #292929;
+    --gradient-dark-2: #111214;
+    --gradient-dark-3: #030405;
+
+    --transparent-white-03: rgba(255, 255, 255, 0.03);
+    --transparent-white-025: rgba(255, 255, 255, 0.025);
+    --transparent-black: rgba(0, 0, 0, 0.5);
+    --footer-bg: rgba(0, 0, 0, 0.868);
+}
